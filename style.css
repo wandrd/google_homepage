@@ -1,0 +1,9 @@
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+.searchbar {
+    <input type="text" placeholder="Search it!">
+    
+}

@@ -10,7 +10,6 @@ img {
 }
 
 .logo {
-    margin-top: 47px;
     height: 233px;
 }
 
@@ -59,8 +58,11 @@ img {
     height: 42px;
     overflow: hidden;
     align-content: center;
-    margin-top: 15px;
 
+}
+
+.navdiv {
+    margin:15px;
 }
 
 .ulleft {

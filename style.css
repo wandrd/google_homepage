@@ -1,7 +1,11 @@
 
 img {
     display: block;
-    margin: 0 auto;
+    margin:  auto;
+}
+
+.logo {
+    margin-top: 47px;
 }
 
 .search {

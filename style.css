@@ -54,7 +54,7 @@ img {
 }
 
 .navbar {
-    display: inline;
+    display: block;
     height: 42px;
     overflow: hidden;
     align-content: center;

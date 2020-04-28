@@ -54,6 +54,8 @@ img {
     display: block;
     height: 42px;
     overflow: hidden;
+    align-content: center;
+
 }
 
 .ulleft {

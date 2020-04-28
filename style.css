@@ -1,4 +1,8 @@
 
+body, a, p {
+    font-family: Helvetica,sans-serif;
+}
+
 img {
     display: block;
     margin:  auto;
@@ -62,6 +66,7 @@ img {
     list-style-type: none;
     margin: 0;
     padding: 0;
+    text-decoration: none;
 }
 .li1 {
     float: left;
@@ -75,4 +80,5 @@ img {
     list-style-type: none;
     margin: 0;
     padding: 0;
+    text-decoration: none;
 }

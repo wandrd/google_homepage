@@ -31,13 +31,16 @@ img {
 }
 
 .borderdiv {
+    display: flex;
     height: 45px;
     width: 583px;
     border: 1px solid rgba(223,225,229,1);
     border-radius: 24px;
 }
 .inputstyle {
-    padding-left: 91.5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
     margin:auto;
     border:none;
     background-color: transparent;

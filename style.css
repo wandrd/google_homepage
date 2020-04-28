@@ -61,6 +61,10 @@ img {
 
 }
 
+li {
+    padding: 10px;
+}
+
 .navdiv {
     margin:15px;
 }

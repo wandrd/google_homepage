@@ -16,3 +16,9 @@ img {
     margin: auto;
     height: 52px;
 }
+
+.formsize {
+    margin: auto;
+    max-width: none;
+    height: 52px;
+}

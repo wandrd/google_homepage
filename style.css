@@ -24,9 +24,9 @@ img {
 }
 
 .sdiv {
+    display: flex;
+    justify-content: center;
     width: 584px;
     padding-top: 6px;
-    padding-left: 220px;
-    padding-right: 220px;
     height: 46px;
 }

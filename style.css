@@ -62,7 +62,6 @@ img {
     list-style-type: none;
     margin: 0;
     padding: 0;
-    overflow: hidden;
 }
 .li1 {
     float: left;
@@ -76,5 +75,4 @@ img {
     list-style-type: none;
     margin: 0;
     padding: 0;
-    overflow: hidden;
 }

@@ -58,7 +58,6 @@ img {
     height: 42px;
     overflow: hidden;
     align-content: center;
-
 }
 
 li {
@@ -84,8 +83,12 @@ li {
 }
 
 .ulright {
+    display: inline;
+    text-align: center;
+    align-content: center;
     list-style-type: none;
     margin: 0;
     padding: 0;
     text-decoration: none;
+    flex: 1;
 }

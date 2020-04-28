@@ -49,3 +49,19 @@ img {
     -webkit-tap-highlight-color: transparent;
     outline: none;
 }
+
+.navbar {
+    display: block;
+    height: 42px;
+
+}
+
+.ulleft {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+.li1 {
+    float: left;
+}

@@ -22,3 +22,10 @@ img {
     max-width: none;
     height: 52px;
 }
+
+.sdiv {
+    width: 584px;
+    padding-top: 6px;
+    padding-left: 220px;
+    padding-right: 220px;
+}

@@ -53,7 +53,7 @@ img {
 .navbar {
     display: block;
     height: 42px;
-
+    overflow: hidden;
 }
 
 .ulleft {
@@ -64,4 +64,14 @@ img {
 }
 .li1 {
     float: left;
+}
+
+.li2 {
+    float: right;
+}
+
+.ulright {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
 }

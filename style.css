@@ -66,6 +66,7 @@ li {
 .navdiv {
     margin:15px;
     display: inline-flex;
+    flex-direction: row;
     justify-content: space-between;
 }
 

@@ -9,6 +9,9 @@ body, a, p {
     padding-top: 109px;
 }
 
+a:hover {
+    text-decoration: underline;
+}
 
 a {
     text-decoration: none;

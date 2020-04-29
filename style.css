@@ -91,7 +91,10 @@ li {
     height: 26px;
     opacity: .6;
    
+}
 
+#googleapp:hover{
+    opacity: 1;
 }
 
 .gappmenu {

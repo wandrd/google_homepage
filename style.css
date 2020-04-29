@@ -80,6 +80,7 @@ a:hover {
     display: block;
     width: 26px;
     height: 26px;
+    align-items: flex-start;
 
 }
 

@@ -65,11 +65,12 @@ li {
 
 .navdiv {
     margin:15px;
-    display: flex;
+    display: inline-flex;
     justify-content: space-between;
 }
 
 .ulleft {
+    display:flex;
     list-style-type: none;
     background-color: thistle;
     margin: 0;
@@ -78,6 +79,7 @@ li {
 }
 
 .ulright {
+    display: flex;
     list-style-type: none;
     background-color: teal;
     margin: 0;

@@ -10,7 +10,9 @@ body, a, p {
 }
 a:link{
     color: rgba(0,0,0,0.87);
-
+}
+a:visited {
+    color: black;
 }
 a:hover {
     text-decoration: underline;

@@ -76,12 +76,13 @@ li {
     padding: 0;
     text-decoration: none;
 }
-.li1 {
-    float: left;
+.li1 
 }
 
 .li2 {
     float: right;
 }
-
+#hf{
+    display: flex;
+}
 .ulright

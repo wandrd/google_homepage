@@ -76,7 +76,8 @@ li {
     padding: 0;
     text-decoration: none;
 }
-.li1 
+.li1 }
+    float: left;
 }
 
 .li2 {

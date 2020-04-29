@@ -83,7 +83,7 @@ a:hover {
     display: flex;
     width: 26px;
     height: 26px;
-    opacity: .8;
+    opacity: .6;
    
 
 }
@@ -97,12 +97,7 @@ a:hover {
     text-align: none;
 }
 
-.signin {
-    font-weight: bold;
-    border: 1px;
-    border-radius: 2px;
-    background-color: ;
-}
+
 
 
 .navdiv {
@@ -127,8 +122,15 @@ a:hover {
     display: inline-flex;
     flex-direction: row;
     list-style-type: none;
-    background-color: teal;
     margin: 0;
     padding: 0;
     
+}
+
+#signin {
+    font-weight: bold;
+    color: #ffffff;
+    border: 1px solid #4285f4;
+    border-radius: 2px;
+    background: linear-gradient(top, #4387fd,#4683ea) ;
 }

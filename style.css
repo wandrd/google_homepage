@@ -80,13 +80,13 @@ a:hover {
     display: block;
     width: 26px;
     height: 26px;
-    align-items: flex-start;
+    align-self: flex-start;
 
 }
 
 .gappmenu {
     display: flex;
-    align-items: flex-start;
+    align-self: flex-start;
     vertical-align: none;
     padding-top: -15px;
 }

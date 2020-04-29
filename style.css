@@ -133,5 +133,5 @@ a:hover {
     color: #ffffff;
     border: 1px solid #4285f4;
     border-radius: 2px;
-    background-image: linear-gradient(top, #4387fd,#4683ea);
+    background-image: linear-gradient(0deg, #4387fd,#4683ea);
 }

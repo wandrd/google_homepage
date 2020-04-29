@@ -66,6 +66,7 @@ li {
 
 .navdiv {
     margin:15px;
+    display: flex;
 }
 
 .ulleft {

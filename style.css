@@ -128,6 +128,7 @@ a:hover {
 }
 .signin {
     display: flex;
+    flex-direction: row;
 }
 #signin {
     align-items: center;

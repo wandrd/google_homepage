@@ -56,7 +56,7 @@ img {
 .navbar {
     display: flex;
     height: 42px;
-    overflow: hidden;
+
 }
 
 li {
@@ -65,10 +65,10 @@ li {
 
 .navdiv {
     margin:15px;
+    width: 100%;
     display: inline-flex;
     flex-direction: row;
     justify-content: space-between;
-    overflow: hidden;
 }
 
 .ulleft {

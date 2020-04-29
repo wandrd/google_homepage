@@ -77,11 +77,15 @@ a:hover {
 }
 
 #googleapp {
-    width: 30px;
-    height: 30px;
+    width: 26px;
+    height: 36px;
 
 }
 
+.gappmenu {
+    display: flex;
+    align-items: flex-start;
+}
 
 
 .navdiv {

@@ -84,7 +84,7 @@ a:hover {
 
 .gappmenu {
     display: flex;
-    align-items: baseline;
+    align-items: ;
     padding-top: -15px;
 }
 
@@ -109,6 +109,7 @@ a:hover {
 
 .ulright {
     display: flex;
+    flex-direction: row;
     list-style-type: none;
     background-color: teal;
     margin: 0;

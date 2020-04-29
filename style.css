@@ -126,8 +126,11 @@ a:hover {
     padding: 0;
     
 }
-
+.signin {
+    display: flex;
+}
 #signin {
+    align-items: center;
     text-align: center;
     height:26px;
     font-weight: bold;

@@ -8,7 +8,10 @@ body, a, p {
     margin:  auto;
     padding-top: 109px;
 }
+a:link{
+    color: rgba(0,0,0,0.87);
 
+}
 a:hover {
     text-decoration: underline;
 }

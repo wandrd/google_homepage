@@ -71,20 +71,15 @@ li {
 
 .ulleft {
     list-style-type: none;
+    background-color: thistle;
     margin: 0;
     padding: 0;
     text-decoration: none;
 }
-.li1 {
-
-    float: left;
-}
-.li2 {
-    float: right;
-}
 
 .ulright {
     list-style-type: none;
+    background-color: teal;
     margin: 0;
     padding: 0;
     text-decoration: none;

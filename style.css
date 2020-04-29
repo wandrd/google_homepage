@@ -54,10 +54,9 @@ img {
 }
 
 .navbar {
-    display: block;
+    display: flex;
     height: 42px;
     overflow: hidden;
-    align-content: center;
 }
 
 li {
@@ -79,14 +78,14 @@ li {
 .li1 {
 
     float: left;
-
 }
-
-
 .li2 {
     float: right;
 }
-#hf{
-    display: flex;
+
+.ulright {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
 }
-.ulright

@@ -81,6 +81,7 @@ li {
 
 .ulright {
     display: flex;
+    justify-content: flex-end;
     list-style-type: none;
     background-color: teal;
     margin: 0;

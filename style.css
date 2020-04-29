@@ -20,10 +20,6 @@ li {
 
 }
 
-a {
-    text-decoration: none;
-}
-
 
 .logo {
     height: 233px;
@@ -75,9 +71,10 @@ a {
 
 }
 
-a:hover {
-    text-decoration: underline;
-}
+
+
+
+
 
 #googleapp {
     display: flex;
@@ -91,9 +88,10 @@ a:hover {
 .gappmenu {
     display: flex;
     top: 20px;
-    align-self: flex-start;
+    align-self: center;
     vertical-align: none;
     padding-top: -15px;
+    padding-right: 20px;
     text-align: none;
 }
 
@@ -103,7 +101,7 @@ a:hover {
 .navdiv {
     margin:22px 15px 0 15px;
     width: 100%;
-    height: 26px;
+    height: 28px;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
@@ -112,7 +110,6 @@ a:hover {
 .ulleft {
     display:inline-flex;
     list-style-type: none;
-    background-color: thistle;
     margin: 0;
     padding: 0;
     
@@ -129,14 +126,18 @@ a:hover {
 .signin {
     display: flex;
     flex-direction: row;
+    height:26px;
+    background-image: linear-gradient(0deg, #4387fd,#4683ea);
+    border-radius: 2px;
+    border: 1px solid #4285f4;
+    padding: 0 12px;
 }
 #signin {
     align-items: center;
     text-align: center;
-    height:26px;
     font-weight: bold;
     color: #ffffff;
-    border: 1px solid #4285f4;
-    border-radius: 2px;
-    background-image: linear-gradient(0deg, #4387fd,#4683ea);
+   
+   
+    
 }

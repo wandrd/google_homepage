@@ -90,7 +90,7 @@ a:hover {
 
 
 .navdiv {
-    margin:15px;
+    margin:30px 15px 0 15px;
     width: 100%;
     display: inline-flex;
     flex-direction: row;

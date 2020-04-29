@@ -77,15 +77,16 @@ a:hover {
 }
 
 #googleapp {
-    display: block;
+    display: flex;
     width: 26px;
     height: 26px;
-    align-self: flex-start;
+   
 
 }
 
 .gappmenu {
     display: flex;
+    top: 20px;
     align-self: flex-start;
     vertical-align: none;
     padding-top: -15px;

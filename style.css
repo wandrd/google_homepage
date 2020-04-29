@@ -85,7 +85,7 @@ a:hover {
 
 .gappmenu {
     display: flex;
-    align-items: ;
+    align-items: flex-start;
     padding-top: -15px;
 }
 

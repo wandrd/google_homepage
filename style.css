@@ -83,6 +83,7 @@ a:hover {
     display: flex;
     width: 26px;
     height: 26px;
+    opacity: .8;
    
 
 }
@@ -94,6 +95,13 @@ a:hover {
     vertical-align: none;
     padding-top: -15px;
     text-align: none;
+}
+
+.signin {
+    font-weight: bold;
+    border: 1px;
+    border-radius: 2px;
+    background-color: ;
 }
 
 

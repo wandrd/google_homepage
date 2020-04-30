@@ -65,7 +65,7 @@ li {
 .borderdiv {
     display: flex;
     height: 45px;
-    width: 583px;
+    width: 483px;
     border: 1px solid rgba(223,225,229,1);
     border-radius: 24px;
 }

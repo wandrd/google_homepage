@@ -205,7 +205,10 @@ border: 1px solid #c6c6c6;
 color: #222;
 }
 
-
+.calltoactionlink {
+    margin: auto;
+    width: 100%;
+}
 
 
 

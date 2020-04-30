@@ -160,8 +160,7 @@ li {
 }
 
 .footernav {
-    position: relative;
-    top: 200px;
+    position: absolute;
     display:flex;
     height: 41px;
     width:100%;

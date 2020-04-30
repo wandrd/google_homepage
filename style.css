@@ -174,10 +174,18 @@ li {
 }
 
 .buttonscenter {
-
+    justify-content: center;
     display: flex;
     margin: auto;
     width:584px;
+}
+
+.googlediv {
+
+}
+
+.luckydiv {
+
 }
 
 

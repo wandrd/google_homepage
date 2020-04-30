@@ -2,6 +2,8 @@
 body, a, p {
     font-family: Helvetica, sans-serif;
 }
+html, body {
+    overflow: auto;
 
 #gimg {
     display: block;

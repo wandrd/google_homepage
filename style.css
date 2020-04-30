@@ -175,3 +175,12 @@ li {
     flex-direction: row;
     justify-content: space-between;
 }
+
+.fulleft {
+    display: inline-flex;
+
+}
+
+.fulright {
+    display: inline-flex;
+}

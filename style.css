@@ -159,6 +159,10 @@ li {
     color:#3672db;
 }
 
+.footerpos {
+    position: absolute;
+    bottom:0px;
+}
 .footernav {
     position: absolute;
     bottom: 0px;

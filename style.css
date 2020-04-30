@@ -158,3 +158,11 @@ li {
 .signin:active {
     color:#3672db;
 }
+
+.footernav {
+    bottom: 0px;
+    display:flex;
+    height: 41px;
+    width:100%;
+    background-color: #f2f2f2;
+}

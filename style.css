@@ -8,6 +8,9 @@ body, a, p {
     margin:  auto;
     padding-top: 109px;
 }
+#footera{
+    color: #5f6368;
+}
 a:link{
     color: rgba(0,0,0,0.87);
 }
@@ -199,6 +202,3 @@ li {
     padding: 0 0 0 27px;
 }
 
-.footera {
-    color: #5f6368;
-}

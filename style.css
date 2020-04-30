@@ -170,8 +170,14 @@ li {
 
 .bcenterdiv2 {
     display: flex;
-    margin: auto;
     height: 58px;
+}
+
+.buttonscenter {
+    position: absolute;
+    display: flex;
+    margin: auto;
+    width:584px;
 }
 
 

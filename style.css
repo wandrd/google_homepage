@@ -168,6 +168,12 @@ li {
     padding: 18px;
 }
 
+.bcenterdiv2 {
+    display: flex;
+    margin: auto;
+    height: 58px;
+}
+
 
 
 

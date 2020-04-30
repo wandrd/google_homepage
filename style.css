@@ -178,7 +178,7 @@ li {
 .footernavdiv {
     height: 40px;
     width:100%;
-    margin-right: -27px;
+    margin-right: 27px;
     display: flex;
     flex-direction: row;
     justify-content: space-between;

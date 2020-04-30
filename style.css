@@ -208,6 +208,9 @@ color: #222;
 .calltoactionlink {
     margin: auto;
     width: 100%;
+    text-align: center;
+    font-size: 13px;
+    
 }
 
 

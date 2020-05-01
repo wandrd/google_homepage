@@ -112,12 +112,14 @@ li {
     margin:1.5px 0;
     border:none;
     background-color: transparent;
-    width: 400px;
+    width: 388px;
     height: 40px;
     -webkit-tap-highlight-color: transparent;
     outline: none;
     font-size: 16px;
     color: rgba(0,0,0,0.87);
+    padding: 0px;
+
 }
 
 .navbar {

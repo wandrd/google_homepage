@@ -77,7 +77,7 @@ li {
 }
 
 .searchiconleft {
-    display: flex;
+    display: inline-flex;
     width:22px;
     height: 22px;
 
@@ -85,7 +85,8 @@ li {
    
 
 .audioiconright {
-    display: flex;
+    display: inline-flex;
+    height: 26px;
 }
 
 #audio {

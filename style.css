@@ -62,6 +62,10 @@ li {
     height: 46px;
 }
 
+.borderdiv:hover {
+    box-shadow: 3px 3px 4px rgba(0,0,0,0.5);
+}
+
 .borderdiv {
     display: flex;
     height: 45px;

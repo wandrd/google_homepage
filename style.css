@@ -40,6 +40,7 @@ li {
 
 .logo {
     height: 233px;
+    cursor: pointer;
 }
 
 .search {
@@ -74,6 +75,22 @@ li {
     border-radius: 24px;
     margin:auto;
 }
+
+.searchiconleft {
+    display: flex;
+
+}
+   
+
+    
+
+
+
+
+.audioiconright {
+    display: flex;
+}
+
 .inputstyle {
     display: flex;
     flex-direction: row;

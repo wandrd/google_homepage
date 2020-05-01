@@ -286,6 +286,7 @@ color: #222;
 
 .fulleft {
     display: inline-flex;
+    overflow: hidden;
 
 }
 

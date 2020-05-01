@@ -290,6 +290,10 @@ color: #222;
 
 }
 
+.howsearchworks{
+    overflow: hidden;
+}
+
 .fulright {
     display: inline-flex;
 }

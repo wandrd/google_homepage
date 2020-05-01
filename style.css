@@ -80,6 +80,7 @@ li {
 
 .searchiconleft {
     display: inline-flex;
+    padding: 0 0 0 14px;
 
 }
    
@@ -87,6 +88,7 @@ li {
 .audioiconright {
     display: inline-flex;
     height: 22px;
+    padding: 0 16px 0 8px;
 }
 
 #audio {
@@ -96,6 +98,7 @@ li {
 #search {
     width:22px;
     height: 22px;
+    
 }
 
 
